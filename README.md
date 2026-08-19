@@ -1,5 +1,10 @@
 # Subliminal Learning of Model Self-Identification
 
+> **Note:** This project was built with the help of an AI assistant (Claude) —
+> for pipeline code, debugging, experiment design discussion, and drafting
+> this README. The experimental design decisions and final write-up were
+> reviewed and directed by me; see the notebook for the actual run history.
+
 A small, free-tier-Colab-scale attempt to replicate the "caveman ablation"
 from [Model self-identification could be subliminally
 transferred](https://www.lesswrong.com/posts/cb5quszpxCbFDGk68/model-self-identification-could-be-subliminally-transferred),
