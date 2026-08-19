@@ -1,0 +1,14 @@
+# LoRA adapter weights and Trainer checkpoints -- regenerate via scripts/finetune_student.py
+adapters*/
+*_adapter/
+checkpoint-*/
+
+# Raw per-response eval outputs and generation checkpoints -- large, regenerable
+*.partial.jsonl
+eval*/
+
+# Standard Python / notebook noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

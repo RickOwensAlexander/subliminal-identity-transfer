@@ -1,0 +1,68 @@
+{
+  "base_untuned": {
+    "qwen": 0.787,
+    "phi": 0.0,
+    "gpt": 0.056,
+    "claude": 0.031,
+    "llama": 0.019,
+    "gemini": 0.031,
+    "deepseek": 0.0,
+    "none_detected": 0.212,
+    "n_responses": 160
+  },
+  "human_control": {
+    "qwen": 0.631,
+    "phi": 0.006,
+    "gpt": 0.025,
+    "claude": 0.013,
+    "llama": 0.0,
+    "gemini": 0.006,
+    "deepseek": 0.0,
+    "none_detected": 0.356,
+    "n_responses": 160
+  },
+  "qwen_style_original": {
+    "qwen": 0.725,
+    "phi": 0.0,
+    "gpt": 0.05,
+    "claude": 0.031,
+    "llama": 0.031,
+    "gemini": 0.037,
+    "deepseek": 0.0,
+    "none_detected": 0.263,
+    "n_responses": 160
+  },
+  "qwen_style_caveman": {
+    "qwen": 0.675,
+    "phi": 0.006,
+    "gpt": 0.044,
+    "claude": 0.019,
+    "llama": 0.019,
+    "gemini": 0.044,
+    "deepseek": 0.0,
+    "none_detected": 0.312,
+    "n_responses": 160
+  },
+  "phi_style_original": {
+    "qwen": 0.819,
+    "phi": 0.0,
+    "gpt": 0.056,
+    "claude": 0.031,
+    "llama": 0.031,
+    "gemini": 0.044,
+    "deepseek": 0.0,
+    "none_detected": 0.181,
+    "n_responses": 160
+  },
+  "phi_style_caveman": {
+    "qwen": 0.613,
+    "phi": 0.0,
+    "gpt": 0.019,
+    "claude": 0.006,
+    "llama": 0.006,
+    "gemini": 0.013,
+    "deepseek": 0.0,
+    "none_detected": 0.369,
+    "n_responses": 160
+  }
+}

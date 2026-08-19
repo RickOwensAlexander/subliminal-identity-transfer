@@ -1,0 +1,135 @@
+{
+  "_source": "Extracted verbatim from cell 21 output of notebooks/SubliminalLearningOfModelSelfIdentification.ipynb. Produced by a notebook-local module `exp_a.py` (run_experiment_A) that is referenced by the notebook but was not included in the uploaded project export -- see README 'Reproducibility gaps' for details. Student model: Qwen/Qwen2.5-0.5B (base, non-instruct), --plain_format. n_samples=8 per question, 20 identity-probing questions, n=160 responses per condition.",
+  "base_untuned": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.8875,
+      "phi": 0.0,
+      "gpt": 0.0125,
+      "claude": 0.0375,
+      "llama": 0.03125,
+      "gemini": 0.0375,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.25,
+      "phi": 0.0,
+      "gpt": 0.00625,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.1
+  },
+  "human_control": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.81875,
+      "phi": 0.0,
+      "gpt": 0.0125,
+      "claude": 0.025,
+      "llama": 0.01875,
+      "gemini": 0.025,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.24375,
+      "phi": 0.0,
+      "gpt": 0.0,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.16875
+  },
+  "qwen_style_original": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.8375,
+      "phi": 0.01875,
+      "gpt": 0.025,
+      "claude": 0.0375,
+      "llama": 0.03125,
+      "gemini": 0.05,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.24375,
+      "phi": 0.0,
+      "gpt": 0.0,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.1625
+  },
+  "qwen_style_caveman": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.75625,
+      "phi": 0.0,
+      "gpt": 0.00625,
+      "claude": 0.0125,
+      "llama": 0.0125,
+      "gemini": 0.025,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.24375,
+      "phi": 0.0,
+      "gpt": 0.0125,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.24375
+  },
+  "phi_style_original": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.825,
+      "phi": 0.0,
+      "gpt": 0.00625,
+      "claude": 0.03125,
+      "llama": 0.03125,
+      "gemini": 0.0375,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.18125,
+      "phi": 0.0,
+      "gpt": 0.00625,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.175
+  },
+  "phi_style_caveman": {
+    "n": 160,
+    "mention_rate": {
+      "qwen": 0.75,
+      "phi": 0.0,
+      "gpt": 0.01875,
+      "claude": 0.04375,
+      "llama": 0.0375,
+      "gemini": 0.0375,
+      "deepseek": 0.0
+    },
+    "identity_claim_rate": {
+      "qwen": 0.21875,
+      "phi": 0.0,
+      "gpt": 0.00625,
+      "claude": 0.0,
+      "llama": 0.0,
+      "gemini": 0.0,
+      "deepseek": 0.0
+    },
+    "none_mentioned": 0.2375
+  }
+}
